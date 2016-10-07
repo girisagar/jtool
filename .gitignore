@@ -1,0 +1,11 @@
+/bin/
+.idea
+*.pyc
+build
+*.gz
+nohup.out
+*~
+.*.sw[a-p]
+.ropeproject
+venv/
+*.sqlite3
